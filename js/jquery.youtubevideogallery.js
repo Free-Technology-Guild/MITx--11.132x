@@ -7,8 +7,6 @@
  * @version 1.3.0
  *
  */
-
-
 ;(function($) {
 "use strict";
 
